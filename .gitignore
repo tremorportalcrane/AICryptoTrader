@@ -1,0 +1,15 @@
+*.exe
+*.dll
+*.zip
+*.rar
+*.7z
+/build/
+/dist/
+/logs/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+node_modules/
