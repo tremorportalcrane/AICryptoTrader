@@ -1,3 +1,5 @@
+<img width="600" height="460" alt="image" src="https://github.com/user-attachments/assets/114575a0-3ced-4241-b444-c034700f59bd" />
+
 # AICryptoTrader
 AI-powered trading and crypto exchange analysis software with real-time signals and automated strategies.
 # AI Crypto Trader – AI Trading & Exchange Analysis Software
